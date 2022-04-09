@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.countdown.data-v-7d99ed38 {
+  width: 750rpx;
+  background-color: #FBAB7E;
+  background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}
+.timer.data-v-7d99ed38 {
+  width: 100%;
+  text-align: center;
+}
+.timer .timer_text.data-v-7d99ed38 {
+  display: inline-block;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  border-right: 6rpx dashed #FFFFFF;
+  color: #FFFFFF;
+  width: 100%;
+  padding: 20rpx 0;
+}
+.timer .timer_text .seckill.data-v-7d99ed38 {
+  font-size: 25rpx;
+  font-weight: 600;
+}
+.timer .timer_text .price.data-v-7d99ed38 {
+  font-size: 50rpx;
+}
+.timer .timer_text .oldprice.data-v-7d99ed38 {
+  display: inline-block;
+  font-size: 20rpx;
+  color: #e9effc;
+  padding-right: 15rpx;
+  border-right: 1px solid #e9effc;
+}
+.timer .timer_text .num.data-v-7d99ed38 {
+  display: inline-block;
+  color: #e9effc;
+  font-size: 20rpx;
+  padding-left: 15rpx;
+}
+.timer .timer_time.data-v-7d99ed38 {
+  height: 100%;
+  color: #fff;
+  font-size: 50rpx;
+}
+.timer .timer_time .timer_time_text.data-v-7d99ed38 {
+  color: #c83f00;
+  font-size: 25rpx;
+  margin: 15rpx 0 10rpx 0;
+}
+.timer .timer_time .timer_time_time.data-v-7d99ed38 {
+  font-size: 35rpx;
+  background-color: #FEE140;
+  background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 100%);
+  padding: 10rpx 20rpx;
+  border-radius: 30rpx;
+}
+

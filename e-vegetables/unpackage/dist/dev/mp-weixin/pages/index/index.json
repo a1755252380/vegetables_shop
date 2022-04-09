@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "E蔬",
+  "usingComponents": {
+    "uni-search-bar": "/uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "othervue": "/pages/index/other",
+    "classify": "/pages/index/classify",
+    "seckilll": "/pages/index/seckill",
+    "recommend": "/pages/index/recommend"
+  }
+}

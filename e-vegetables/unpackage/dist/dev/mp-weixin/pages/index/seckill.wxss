@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+/* 秒杀专区 */
+.seckill-section.data-v-6332a36e {
+  padding: 4rpx 30rpx 24rpx;
+  background: #fff;
+}
+.seckill-section .s-header.data-v-6332a36e {
+  display: flex;
+  align-items: center;
+  height: 92rpx;
+  line-height: 1;
+}
+.seckill-section .s-header .s-img.data-v-6332a36e {
+  width: 140rpx;
+  height: 30rpx;
+}
+.seckill-section .s-header .tip.data-v-6332a36e {
+  font-size: 28rpx;
+  color: #909399;
+  margin: 0 20rpx 0 40rpx;
+}
+.seckill-section .s-header .icon-you.data-v-6332a36e {
+  font-size: 32rpx;
+  color: #909399;
+  flex: 1;
+  text-align: right;
+}
+.seckill-section .timer.data-v-6332a36e {
+  background: #ffaa00;
+  padding: 10rpx;
+  border-radius: 20rpx;
+  font-size: 30rpx;
+  color: #f4f4f4;
+}
+.seckill-section .floor-list.data-v-6332a36e {
+  white-space: nowrap;
+}
+.seckill-section .scoll-wrapper.data-v-6332a36e {
+  display: flex;
+  align-items: flex-start;
+}
+.seckill-section .floor-item.data-v-6332a36e {
+  width: 150rpx;
+  margin-right: 20rpx;
+  font-size: 26rpx;
+  color: #303133;
+  line-height: 1.8;
+}
+.seckill-section .floor-item image.data-v-6332a36e {
+  width: 150rpx;
+  height: 150rpx;
+  border-radius: 6rpx;
+}
+.seckill-section .floor-item .price.data-v-6332a36e {
+  color: #fa436a;
+}
+

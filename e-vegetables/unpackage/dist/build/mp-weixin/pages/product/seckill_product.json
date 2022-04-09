@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "详情展示",
+  "usingComponents": {
+    "grade": "/pages/product/product/grade",
+    "choosenum": "/pages/product/product/choosenum",
+    "countdown": "/pages/product/seckill_product/countdown",
+    "sloading": "/components/sloading"
+  }
+}

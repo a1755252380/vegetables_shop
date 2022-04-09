@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "创建订单",
+  "usingComponents": {
+    "place": "/pages/order/createorder/place",
+    "productlist": "/pages/order/createorder/productlist"
+  }
+}

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.grade.data-v-7a112124 {
+  width: 750rpx;
+}
+.grade view.data-v-7a112124 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.grade .title.data-v-7a112124 {
+  font-size: 28rpx;
+  padding: 10rpx;
+}
+.grade .detail.data-v-7a112124 {
+  font-size: 33rpx;
+  font-weight: 700;
+  padding: 10rpx;
+}
+

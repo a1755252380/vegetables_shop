@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/index/seckill"],{"5b33":function(e,t,n){},6333:function(e,t,n){"use strict";var i=n("5b33"),u=n.n(i);u.a},"64b5":function(e,t,n){"use strict";n.r(t);var i=n("fbf9"),u=n("8fe8");for(var o in u)"default"!==o&&function(e){n.d(t,e,(function(){return u[e]}))}(o);n("6333");var a,r=n("f0c5"),c=Object(r["a"])(u["default"],i["b"],i["c"],!1,null,"de2cf668",null,!1,i["a"],a);t["default"]=c.exports},"8fe8":function(e,t,n){"use strict";n.r(t);var i=n("c8b7"),u=n.n(i);for(var o in i)"default"!==o&&function(e){n.d(t,e,(function(){return i[e]}))}(o);t["default"]=u.a},c8b7:function(e,t,n){"use strict";(function(e){Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var n={props:["goodsList"],data:function(){return{seckilltime:0,seckillnum:"20点场",timer:null}},computed:{goods:function(){return this.goodsList}},methods:{navToDetailPage:function(t){var n=t.id;e.navigateTo({url:"/pages/product/seckill_product?id=".concat(n)})}},mounted:function(){var e=(new Date).toLocaleDateString(),t=this;this.timer=setInterval((function(){t.seckillnum="14点场";var n=new Date(e+" 14:00:00").getTime()-(new Date).getTime()-288e5;n+288e5<=0&&(n=new Date(e+" 22:00:00").getTime()-(new Date).getTime()-288e5,t.seckillnum="22点场",n+288e5<=0&&(n=0)),t.seckilltime=n}),1e3)},beforeDestroy:function(){clearInterval(this.timer)}};t.default=n}).call(this,n("543d")["default"])},fbf9:function(e,t,n){"use strict";n.d(t,"b",(function(){return u})),n.d(t,"c",(function(){return o})),n.d(t,"a",(function(){return i}));var i={uniDateformat:function(){return Promise.all([n.e("common/vendor"),n.e("uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat")]).then(n.bind(null,"e147"))}},u=function(){var e=this,t=e.$createElement;e._self._c},o=[]}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/index/seckill-create-component',
+    {
+        'pages/index/seckill-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("64b5"))
+        })
+    },
+    [['pages/index/seckill-create-component']]
+]);

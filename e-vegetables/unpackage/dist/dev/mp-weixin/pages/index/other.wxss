@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+/* 猜你喜欢 */
+.guess-section.data-v-dedbf3ac {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30rpx;
+  background: #fff;
+}
+.guess-section .guess-item.data-v-dedbf3ac {
+  display: flex;
+  flex-direction: column;
+  width: 48%;
+  padding-bottom: 40rpx;
+}
+.guess-section .guess-item.data-v-dedbf3ac:nth-child(2n+1) {
+  margin-right: 4%;
+}
+.guess-section .image-wrapper.data-v-dedbf3ac {
+  width: 100%;
+  height: 330rpx;
+  border-radius: 3px;
+  overflow: hidden;
+}
+.guess-section .image-wrapper image.data-v-dedbf3ac {
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+}
+.guess-section .title.data-v-dedbf3ac {
+  font-size: 32rpx;
+  color: #303133;
+  line-height: 80rpx;
+}
+.guess-section .price.data-v-dedbf3ac {
+  font-size: 32rpx;
+  color: #fa436a;
+  line-height: 1;
+}
+

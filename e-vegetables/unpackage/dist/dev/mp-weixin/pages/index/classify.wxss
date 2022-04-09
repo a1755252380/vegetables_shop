@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+page .cate-section.data-v-8dfb314c {
+  position: relative;
+  z-index: 5;
+  border-radius: 16rpx 16rpx 0 0;
+  margin-top: -20rpx;
+}
+page .carousel-section.data-v-8dfb314c {
+  padding: 0;
+}
+page .carousel-section .titleNview-placing.data-v-8dfb314c {
+  padding-top: 0;
+  height: 0;
+}
+page .carousel-section .carousel .carousel-item.data-v-8dfb314c {
+  padding: 0;
+}
+page .carousel-section .swiper-dots.data-v-8dfb314c {
+  left: 45rpx;
+  bottom: 40rpx;
+}
+/* 分类 */
+.cate-section.data-v-8dfb314c {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 30rpx 22rpx;
+  background: #fff;
+  /* 原图标颜色太深,不想改图了,所以加了透明度 */
+}
+.cate-section .cate-item.data-v-8dfb314c {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 26rpx;
+  color: #303133;
+}
+.cate-section .image.data-v-8dfb314c {
+  width: 88rpx;
+  height: 88rpx;
+  margin-bottom: 14rpx;
+  border-radius: 50%;
+  opacity: .7;
+  box-shadow: 4rpx 4rpx 20rpx rgba(250, 67, 106, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cate-section .image ._i.data-v-8dfb314c {
+  font-size: 48rpx;
+  color: #FFFFFF;
+}
+.ad-1.data-v-8dfb314c {
+  width: 100%;
+  height: 210rpx;
+  padding: 10rpx 0;
+  background: #fff;
+}
+.ad-1 image.data-v-8dfb314c {
+  width: 100%;
+  height: 100%;
+}
+

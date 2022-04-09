@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "详情展示",
+  "usingComponents": {
+    "grade": "/pages/product/product/grade",
+    "choosenum": "/pages/product/product/choosenum"
+  }
+}
